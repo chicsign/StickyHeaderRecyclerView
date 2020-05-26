@@ -37,7 +37,7 @@ See my blog for detailed instructions.
 https://github.com/paetztm/recycler_view_headers/blob/master/app/src/main/java/timothypaetz/com/recyclersectionheader/MainActivity.java
 
 # License
-  Copyright 2020 chicsign
+  Copyright 2020 Lonnie
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.

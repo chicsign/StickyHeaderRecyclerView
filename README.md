@@ -26,7 +26,8 @@ TYPE_EMPTY is a view type that is drawn when there is no data in the list.
 TYPE_LIST is the view type on which data is drawn.
 
 See my blog for detailed instructions.
-> https://dailylonnie0125.tistory.com/
+
+> https://dailylonnie0125.tistory.com/22
 
 # OverView
 
